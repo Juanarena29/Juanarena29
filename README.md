@@ -1,6 +1,7 @@
 <h1 align="center"><b>Hi, I'm Juan Arena </b> 👋</h1>
 <p align="center">
   <b>Data & ML enthusiast | Python · SQL · Machine Learning</b> 
+  <br>
   <b>Computer Science Student</b>  
   <br>
   La Plata, Buenos Aires, Argentina
