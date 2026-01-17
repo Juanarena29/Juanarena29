@@ -72,7 +72,7 @@ My goal is to join a team as a **Junior Data Engineer, ML Engineer, or Data Anal
 - **Professional notebooks** with EDA and technical reporting
 - Pipeline design with **reproducibility** and **production-ready** architecture
 
-**Results:** R² = 0.95 | MAE < 5% | 40% reduction in training time
+**Results:** R² = 0.95 | MAE < 5% 
 
 🔗 [github.com/Juanarena29/House_Price_Prediction--Arena](https://github.com/Juanarena29/House_Price_Prediction--Arena)
 
