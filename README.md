@@ -65,6 +65,23 @@ My goal is to join a team as a **Junior Data Engineer, ML Engineer, or Data Anal
 
 ## 🚀 Featured Projects
 
+### 🎓 ML WorkFlow – Educational Machine Learning Tool  
+**Technologies:** Python, Streamlit, scikit-learn, pandas, NumPy, Plotly, joblib
+
+- **Aplicación web educativa** que guía paso a paso el flujo completo de Machine Learning, desde la carga de datos hasta la predicción y evaluación de modelos.
+- Diseño **híbrido educativo / herramienta**, con modo *Learn* (explicaciones guiadas) y modo *Tool* (uso práctico).
+- **Gestión explícita del estado del proyecto** (dataset original, limpieza, target, tipo de problema, modelos entrenados).
+- **Validaciones y guardrails** en cada etapa para evitar errores comunes (target inválido, leakage, datasets inconsistentes).
+- **Configuración guiada de limpieza de datos** con sugerencias automáticas y control del usuario.
+- Soporte para **regresión y clasificación**, con métricas, gráficos interpretables y análisis de errores.
+- **Predicción sobre datos nuevos**, con comparación *predicción vs valor real* cuando el target está disponible.
+- Arquitectura modular y extensible, priorizando **claridad, reproducibilidad y buenas prácticas** por sobre automatismos opacos.
+
+🔗 Demo: https://ml-workflow-education-toolgit-wmxdggenkkoppnwjc2edgy.streamlit.app/
+🔗 Código: https://github.com/Juanarena29/ML-WorkFlow-Education-Tool
+
+---
+
 ### 🏠 House Price Prediction – ML Pipeline  
 **Technologies:** Python, scikit-learn, pandas, NumPy, matplotlib, pytest, joblib
 
