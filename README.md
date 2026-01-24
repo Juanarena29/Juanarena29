@@ -78,6 +78,7 @@ My goal is to join a team as a **Junior Data Engineer, ML Engineer, or Data Anal
 - Arquitectura modular y extensible, priorizando **claridad, reproducibilidad y buenas prácticas** por sobre automatismos opacos.
 
 🔗 Demo: https://ml-workflow-education-toolgit-wmxdggenkkoppnwjc2edgy.streamlit.app/
+
 🔗 Código: https://github.com/Juanarena29/ML-WorkFlow-Education-Tool
 
 ---
