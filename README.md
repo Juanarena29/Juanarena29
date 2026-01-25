@@ -65,21 +65,35 @@ My goal is to join a team as a **Junior Data Engineer, ML Engineer, or Data Anal
 
 ## 🚀 Featured Projects
 
-### 🎓 ML WorkFlow – Educational Machine Learning Tool  
-**Technologies:** Python, Streamlit, scikit-learn, pandas, NumPy, Plotly, joblib
+### 🎓 ML Workflow – Educational Machine Learning Tool  
+**Technologies:** Python, Streamlit, scikit-learn, pandas, NumPy, Plotly, joblib  
 
-- **Aplicación web educativa** que guía paso a paso el flujo completo de Machine Learning, desde la carga de datos hasta la predicción y evaluación de modelos.
-- Diseño **híbrido educativo / herramienta**, con modo *Learn* (explicaciones guiadas) y modo *Tool* (uso práctico).
-- **Gestión explícita del estado del proyecto** (dataset original, limpieza, target, tipo de problema, modelos entrenados).
-- **Validaciones y guardrails** en cada etapa para evitar errores comunes (target inválido, leakage, datasets inconsistentes).
-- **Configuración guiada de limpieza de datos** con sugerencias automáticas y control del usuario.
-- Soporte para **regresión y clasificación**, con métricas, gráficos interpretables y análisis de errores.
-- **Predicción sobre datos nuevos**, con comparación *predicción vs valor real* cuando el target está disponible.
-- Arquitectura modular y extensible, priorizando **claridad, reproducibilidad y buenas prácticas** por sobre automatismos opacos.
+Educational web application that **guides users step by step through the complete Machine Learning workflow**, from data ingestion to model prediction and evaluation.
 
-🔗 Demo: https://ml-workflow-education-toolgit-wmxdggenkkoppnwjc2edgy.streamlit.app/
+- **Hybrid educational / tooling design**, featuring:
+  - **Learn mode**: guided explanations of each ML stage
+  - **Tool mode**: hands-on, practical usage for real datasets
+- **Explicit project state management**, tracking:
+  - original dataset
+  - data cleaning steps
+  - target selection
+  - problem type
+  - trained models
+- **Built-in validations and guardrails** at each stage to prevent common ML mistakes  
+  (invalid target selection, data leakage, inconsistent datasets, etc.).
+- **Guided data cleaning configuration**, combining automatic suggestions with full user control.
+- **Support for regression and classification problems**, including:
+  - appropriate metrics
+  - interpretable visualizations
+  - error analysis
+- **Prediction on new data**, with prediction vs. ground truth comparison when the target is available.
+- **Modular and extensible architecture**, prioritizing clarity, reproducibility, and ML best practices over opaque automation.
 
-🔗 Código: https://github.com/Juanarena29/ML-WorkFlow-Education-Tool
+🔗 **Live Demo:**  
+https://ml-workflow-education-toolgit-wmxdggenkkoppnwjc2edgy.streamlit.app/
+
+🔗 **Source Code:**  
+https://github.com/Juanarena29/ML-WorkFlow-Education-Tool
 
 ---
 
