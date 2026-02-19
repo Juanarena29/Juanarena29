@@ -109,6 +109,23 @@ https://github.com/Juanarena29/ML-WorkFlow-Education-Tool
 **Results:** R² = 0.95 | MAE < 5% 
 
 🔗 [github.com/Juanarena29/House_Price_Prediction--Arena](https://github.com/Juanarena29/House_Price_Prediction--Arena)
+---
+
+### 🏨 Rental Management System – Tourist Complex  
+**Technologies:** C#, ASP.NET Core 8, Blazor Server, EF Core 8, SQL Server (Azure), xUnit, Moq, FluentAssertions
+
+Custom-built web application developed **to client specifications** for a real 7-apartment tourist complex in Las Grutas, Río Negro. Replaces manual booking logs, WhatsApp notes and spreadsheets with a fully centralized management system.
+
+- **Clean Architecture** across 4 layers (Domain, Application, Infrastructure, Web) with strict dependency rules — Domain has zero external dependencies
+- **29 independent Use Cases**, each encapsulating a single business operation for maximum testability and maintainability
+- **Overlap detection** — prevents double-booking with composite index-backed queries
+- **ACID payment transactions** using Unit of Work pattern, with rollback verified by automated tests
+- **Security-first authentication**: PBKDF2 SHA-256 (100k iterations), timing-safe password comparison, anti user-enumeration design
+- **Occupancy statistics**: occupancy rate, daily revenue, check-in/check-out dashboard
+- **Automated testing** with xUnit + Moq + FluentAssertions — 66 tests covering critical use cases including transaction rollback and security edge cases
+- **Production database**: Azure SQL Server — switchable to SQLite locally via single config line
+
+🔗 [github.com/Juanarena29/RentalManagementSystem](https://github.com/Juanarena29/RentalManagementSystem)
 
 ---
 
