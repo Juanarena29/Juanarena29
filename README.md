@@ -97,21 +97,6 @@ https://github.com/Juanarena29/ML-WorkFlow-Education-Tool
 
 ---
 
-### 🏠 House Price Prediction – ML Pipeline  
-**Technologies:** Python, scikit-learn, pandas, NumPy, matplotlib, pytest, joblib
-
-- Modular **end-to-end ML pipeline** for house price prediction
-- **Model comparison** (Random Forest, Gradient Boosting, Decision Tree, Linear Regression) with GridSearchCV
-- **Automated testing** with >95% coverage using pytest (AAA pattern)
-- **Professional notebooks** with EDA and technical reporting
-- Pipeline design with **reproducibility** and **production-ready** architecture
-
-**Results:** R² = 0.95 | MAE < 5% 
-
-🔗 [github.com/Juanarena29/House_Price_Prediction--Arena](https://github.com/Juanarena29/House_Price_Prediction--Arena)
-
----
-
 ### 🏨 Rental Management System – Tourist Complex  
 **Technologies:** C#, ASP.NET Core 8, Blazor Server, EF Core 8, SQL Server (Azure), xUnit, Moq, FluentAssertions
 
@@ -127,6 +112,21 @@ Custom-built web application developed **to client specifications** for a real 7
 - **Production database**: Azure SQL Server — switchable to SQLite locally via single config line
 
 🔗 [github.com/Juanarena29/RentalManagementSystem](https://github.com/Juanarena29/RentalManagementSystem)
+
+---
+
+### 🏠 House Price Prediction – ML Pipeline  
+**Technologies:** Python, scikit-learn, pandas, NumPy, matplotlib, pytest, joblib
+
+- Modular **end-to-end ML pipeline** for house price prediction
+- **Model comparison** (Random Forest, Gradient Boosting, Decision Tree, Linear Regression) with GridSearchCV
+- **Automated testing** with >95% coverage using pytest (AAA pattern)
+- **Professional notebooks** with EDA and technical reporting
+- Pipeline design with **reproducibility** and **production-ready** architecture
+
+**Results:** R² = 0.95 | MAE < 5% 
+
+🔗 [github.com/Juanarena29/House_Price_Prediction--Arena](https://github.com/Juanarena29/House_Price_Prediction--Arena)
 
 ---
 
