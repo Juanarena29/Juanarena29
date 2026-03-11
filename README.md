@@ -1,6 +1,6 @@
 <h1 align="center"><b>Hi, I'm Juan Arena </b> 👋</h1>
 <p align="center">
-  <b>Data & ML enthusiast | Python · SQL · Machine Learning</b> 
+  <b>ML & IA enthusiast | Python · SQL · Machine Learning</b> 
   <br>
   <b>Computer Science Student</b>  
   <br>
@@ -16,11 +16,11 @@
 
 ## 👨‍💻 About Me
 
-I am a **Data & AI Engineer Jr** in training, currently pursuing my degree in **Computer Science (Lic. en Sistemas)** at **Universidad Nacional de La Plata (UNLP)**.
+I am a **ML & AI Engineer Jr** in training, currently pursuing my degree in **Computer Science (Lic. en Sistemas)** at **Universidad Nacional de La Plata (UNLP)**.
 
 I work with **Python and SQL** to build **machine learning pipelines**, develop **predictive models**, and create **data-driven solutions**. I have hands-on experience with **end-to-end ML workflows**, designing **modular architectures**, implementing **automated testing**, and applying **software engineering best practices** to ensure scalable and maintainable code.
 
-My goal is to join a team as a **Junior Data Engineer, ML Engineer, or Data Analyst**, where I can contribute with reliable data solutions, production-ready ML models, and continue growing professionally.
+My goal is to join a team as a **Junior Data Engineer, ML Engineer, or IA Engineer**, where I can contribute with reliable data solutions, production-ready ML models, and continue growing professionally.
 
 ---
 
@@ -30,6 +30,7 @@ My goal is to join a team as a **Junior Data Engineer, ML Engineer, or Data Anal
 - **Python** (pandas, NumPy, scikit-learn, matplotlib, pytest)
 - **SQL** (SQLite, PostgreSQL)
 - **C#** (.NET, Blazor)
+- **JAVA**
 - **Git & GitHub**
 
 ### Data Engineering & Analytics
@@ -55,10 +56,11 @@ My goal is to join a team as a **Junior Data Engineer, ML Engineer, or Data Anal
 - Modular architecture & clean code
 - Test-driven development (pytest, >95% coverage)
 - Version control (Git/GitHub)
+- Docker containerization
 
 ### Currently Learning
 - Azure Cloud Services
-- Docker containerization
+- IA Engineering
 - Advanced ML algorithms (PSO, Genetic Algorithms)
 
 ---
