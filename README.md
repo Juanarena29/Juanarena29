@@ -87,6 +87,14 @@ My goal is to join a team as a **Junior Data Engineer, ML Engineer, or IA Engine
 
 # 🚀 Featured Projects
 
+##🤖 Mini Transformer from Scratch (Work in Progress)
+**Technologies**: Python, NumPy
+
+End-to-end implementation of a Transformer architecture built entirely from scratch, focusing on deep understanding of every component without relying on high-level libraries.
+
+This project is structured as a collection of independent sub-projects, each one covering a key building block of modern NLP systems:
+---
+
 ### 🎓 ML Workflow – Educational Machine Learning Tool  
 **Technologies:** Python, Streamlit, scikit-learn, pandas, NumPy, Plotly, joblib  
 
