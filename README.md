@@ -85,7 +85,7 @@ My goal is to join a team as a **Junior Data Engineer, ML Engineer, or IA Engine
   
 ---
 
-## 🚀 Featured Projects
+# 🚀 Featured Projects
 
 ### 🎓 ML Workflow – Educational Machine Learning Tool  
 **Technologies:** Python, Streamlit, scikit-learn, pandas, NumPy, Plotly, joblib  
@@ -116,29 +116,6 @@ https://ml-workflow-education-toolgit-wmxdggenkkoppnwjc2edgy.streamlit.app/
 
 🔗 **Source Code:**  
 https://github.com/Juanarena29/ML-WorkFlow-Education-Tool
-
----
-
-### 🧠 Neural Network v1 – Fully-Connected Net from Scratch
-**Technologies:** Python, NumPy, scikit-learn, matplotlib
-
-Fully-connected neural network **built from scratch using NumPy only**, with no deep learning libraries. Every mathematical operation derived and implemented explicitly, benchmarked against scikit-learn's LinearRegression.
-
-- **Forward pass** with pre-activations Z, ReLU activations on hidden layers, and linear output for regression
-- **Full backpropagation** derived by hand: dZ, dW, db propagated layer by layer via chain rule
-- **ReLU derivative** implemented as a binary mask over the gradients
-- **Mini-batch gradient descent** with per-epoch shuffle — intentionally implemented to demonstrate its behavior at scale
-- **He initialization**, normalization computed exclusively on train set, 70/15/15 split
-- **All matrix operations** with explicit shapes documented in the README
-
-**Benchmark vs scikit-learn LinearRegression** — same dataset, same split:
-
-| Model | MAE | RMSE |
-|---|---|---|
-| **Neural Net (NumPy)** | **9,022** | **11,097** |
-| Linear Regression (sklearn) | 8,963 | 10,889 |
-
-🔗 [github.com/Juanarena29/NeuralNetworkv1](https://github.com/Juanarena29/NeuralNetworkv1)
 
 ---
 
