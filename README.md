@@ -87,12 +87,34 @@ My goal is to join a team as a **Junior Data Engineer, ML Engineer, or IA Engine
 
 # 🚀 Featured Projects
 
-##🤖 Mini Transformer from Scratch (Work in Progress)
+## 🤖 Mini Transformer from Scratch (Work in Progress)
 **Technologies**: Python, NumPy
 
 End-to-end implementation of a Transformer architecture built entirely from scratch, focusing on deep understanding of every component without relying on high-level libraries.
 
 This project is structured as a collection of independent sub-projects, each one covering a key building block of modern NLP systems:
+## 
+### 🔤 BPE Tokenizer – From Scratch
+
+Custom implementation of **Byte Pair Encoding (BPE)** for subword tokenization, built step by step to understand how raw text is transformed into model-ready tokens.
+
+- Character-level initialization with explicit **end-of-word (</w>) handling**
+- Iterative **frequency-based pair merging** to build the vocabulary
+- Deterministic merge rules applied consistently during encoding
+
+🔗 https://github.com/Juanarena29/BPE-Tokenizer
+
+## 🧠 Neural Network v1 – NumPy Only
+
+Fully-connected neural network implemented from scratch using **NumPy only**, with all mathematical operations explicitly derived and coded.
+
+- Manual **forward pass** with ReLU activations and linear output
+- Full **backpropagation implementation** using the chain rule (dZ, dW, db)
+- **Mini-batch gradient descent** with proper data shuffling
+- Careful handling of **initialization and data normalization**
+
+🔗 https://github.com/Juanarena29/NeuralNetworkv1
+
 ---
 
 ### 🎓 ML Workflow – Educational Machine Learning Tool  
@@ -175,10 +197,9 @@ Custom-built web application developed **to client specifications** for a real 7
 
 ## 📌 What I'm Looking For
 
-- **Junior Data Engineer**  
-- **ML Engineer / Data Scientist Jr**  
-- **Analytics Engineer**  
-- **Data Analyst** (Python/SQL focused)
+- **AI Engineer Jr**
+- **ML Engineer Jr**
+- **Data Engineer Jr**
 
 I'm especially interested in roles where I can work with **ML pipelines, data engineering workflows, and production-ready solutions**.
 
@@ -187,8 +208,8 @@ I'm especially interested in roles where I can work with **ML pipelines, data en
 ## 🎯 Current Focus
 
 - 🔬 Developing an **Automated Titration Simulator** (thesis project - UNLP/III-LIDI)
-- 🤖 Exploring **metaheuristic algorithms** (PSO, Genetic Algorithms, Black Hole Algorithm)
-- ☁️ Learning **Azure Cloud** and **Docker**
+- 🤖 Exploring **metaheuristic algorithms** (PSO, ACO)
+- ☁️ Learning **Azure Cloud** and **LLM's & DeepLearning**
 - 📊 Building **scalable ML pipelines** and **automated workflows**
 
 ---
