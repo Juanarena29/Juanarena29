@@ -102,7 +102,8 @@ Custom implementation of **Byte Pair Encoding (BPE)** for subword tokenization, 
 - Iterative **frequency-based pair merging** to build the vocabulary
 - Deterministic merge rules applied consistently during encoding
 
-🔗 https://github.com/Juanarena29/BPE-Tokenizer
+🔗 [https://github.com/Juanarena29/BPE-Tokenizer](https://github.com/Juanarena29/BPETokenizer)
+🔗 **DEMO**: https://bpetokenizer-v1.streamlit.app/
 
 ## 🧠 Neural Network v1 – NumPy Only
 
