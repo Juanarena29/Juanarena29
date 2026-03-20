@@ -104,7 +104,7 @@ Custom implementation of **Byte Pair Encoding (BPE)** for subword tokenization, 
 
 🔗 [https://github.com/Juanarena29/BPE-Tokenizer](https://github.com/Juanarena29/BPETokenizer)
 
-🔗 **DEMO**: https://bpetokenizer-v1.streamlit.app/
+🔗 **[Open Demo on Streamlit Cloud](https://bpetokenizer-v1.streamlit.app/)**
 
 ## 🧠 Neural Network v1 – NumPy Only
 
@@ -116,6 +116,7 @@ Fully-connected neural network implemented from scratch using **NumPy only**, wi
 - Careful handling of **initialization and data normalization**
 
 🔗 https://github.com/Juanarena29/NeuralNetworkv1
+🔗 **[Open Demo on Streamlit Cloud](https://neuralnetworkv1.streamlit.app/)**
 
 ---
 
