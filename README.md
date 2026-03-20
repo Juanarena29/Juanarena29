@@ -116,6 +116,7 @@ Fully-connected neural network implemented from scratch using **NumPy only**, wi
 - Careful handling of **initialization and data normalization**
 
 🔗 https://github.com/Juanarena29/NeuralNetworkv1
+
 🔗 **[Open Demo on Streamlit Cloud](https://neuralnetworkv1.streamlit.app/)**
 
 ---
