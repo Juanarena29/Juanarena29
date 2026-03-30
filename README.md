@@ -26,29 +26,29 @@ My goal is to join a team as a **Junior Data Engineer, ML Engineer, or IA Engine
 
 ## 🧰 Technical Skills
 
-###Machine Learning & AI
+### Machine Learning & AI
 - Python (NumPy, pandas, scikit-learn, XGBoost)
 - End-to-end ML pipelines (ingestion → preprocessing → training → evaluation)
 - Supervised learning, feature engineering, cross-validation, hyperparameter tuning
 - Model evaluation and overfitting detection
 - Neural networks from scratch (NumPy, forward/backprop)
 
-###LLMs & Generative AI
+### LLMs & Generative AI
 - Retrieval-Augmented Generation (RAG)
 - Embeddings and semantic search
 - Fine-tuning with QLoRA
 - LLM orchestration with LangChain
 
-###Software Engineering
+### Software Engineering
 - OOP, Clean Architecture, SOLID principles
 - REST APIs with ASP.NET Core
 - Testing (pytest, xUnit) with high coverage
 
-###Data & Tools
+### Data & Tools
 - SQL (PostgreSQL, SQLite), Docker, Git
 - Streamlit, Power BI, Matplotlib, Plotly
 
-###Currently Learning
+### Currently Learning
 - Deep Learning & Transformers
 - Azure Cloud
 - Metaheuristic optimization for thesis (PSO, ACO)
