@@ -26,62 +26,32 @@ My goal is to join a team as a **Junior Data Engineer, ML Engineer, or IA Engine
 
 ## 🧰 Technical Skills
 
-### Machine Learning & AI
+###Machine Learning & AI
 - Python (NumPy, pandas, scikit-learn, XGBoost)
-- End-to-end ML pipelines (data ingestion → preprocessing → training → evaluation → prediction)
-- Supervised learning (regression, classification)
-- Feature engineering & data preprocessing
-- Cross-validation, hyperparameter tuning (GridSearchCV)
-- Model evaluation (MAE, RMSE, R², overfitting detection)
-- Model serialization & reproducibility (joblib)
-- Neural networks from scratch (NumPy implementation, forward/backprop)
+- End-to-end ML pipelines (ingestion → preprocessing → training → evaluation)
+- Supervised learning, feature engineering, cross-validation, hyperparameter tuning
+- Model evaluation and overfitting detection
+- Neural networks from scratch (NumPy, forward/backprop)
 
-### Data Engineering for ML
-- Data cleaning and transformation pipelines
-- Exploratory Data Analysis (EDA)
-- Feature pipelines with ColumnTransformer
-- Dataset splitting and leakage prevention
-- ETL workflows for ML experimentation
-
-### LLMs & Generative AI
+###LLMs & Generative AI
 - Retrieval-Augmented Generation (RAG)
 - Embeddings and semantic search
 - Fine-tuning with QLoRA
 - LLM orchestration with LangChain
 
-### Software Engineering
-- Object-Oriented Programming (OOP)
-- Clean Architecture
-- SOLID principles
-- Dependency Injection
-- Repository & Unit of Work patterns
-- Modular system design
-- Testing-driven development
+###Software Engineering
+- OOP, Clean Architecture, SOLID principles
+- REST APIs with ASP.NET Core
+- Testing (pytest, xUnit) with high coverage
 
-### Testing & Reliability
-- Automated testing (pytest, xUnit, Moq, FluentAssertions)
-- Unit and integration tests
-- High test coverage (>80–95%)
-- Validation and guardrails for ML pipelines
+###Data & Tools
+- SQL (PostgreSQL, SQLite), Docker, Git
+- Streamlit, Power BI, Matplotlib, Plotly
 
-### Data & Backend Technologies
-- SQL (PostgreSQL, SQLite)
-- REST APIs
-- ASP.NET Core
-- Entity Framework Core
-
-### Dev Tools
-- Git & GitHub
-- Docker
-- Streamlit
-- Power BI
-- Matplotlib, Plotly
-
-### Currently Learning
-- Deep Learning & neural network architectures
-- Transformers and LLM systems
+###Currently Learning
+- Deep Learning & Transformers
 - Azure Cloud
-- Metaheuristic optimization (PSO, Genetic Algorithms)
+- Metaheuristic optimization for thesis (PSO, ACO)
   
 ---
 
