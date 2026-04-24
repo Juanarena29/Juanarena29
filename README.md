@@ -57,37 +57,31 @@ My goal is to join a team as a **Junior Data Engineer, ML Engineer, or IA Engine
 
 # 🚀 Featured Projects
 
-## 🤖 Mini Transformer from Scratch (Work in Progress)
+## 🤖 Transformer from Scratch — NumPy & BPE
+
 **Technologies**: Python, NumPy
 
-End-to-end implementation of a Transformer architecture built entirely from scratch, focusing on deep understanding of every component without relying on high-level libraries.
+Full implementation of a Transformer encoder / language model built entirely in NumPy. No PyTorch, no TensorFlow — just math and layer-by-layer analytical backpropagation.
 
-This project is structured as a collection of independent sub-projects, each one covering a key building block of modern NLP systems:
-## 
-### 🔤 BPE Tokenizer – From Scratch
+Not the fastest way to get a model running. The right way to understand why it works.
 
-Custom implementation of **Byte Pair Encoding (BPE)** for subword tokenization, built step by step to understand how raw text is transformed into model-ready tokens.
+- Custom BPE tokenizer trained on Spanish (`vocab_size = 6000`)
+- Manual backpropagation for every layer (MHA, FFN, LayerNorm, Cross Entropy)
+- Autoregressive text generation (`greedy`, `top-k`, `top-p`)
+- 3D PCA embedding visualization and attention heatmaps
+- Pre-trained checkpoint included — run inference without training
 
-- Character-level initialization with explicit **end-of-word (</w>) handling**
-- Iterative **frequency-based pair merging** to build the vocabulary
-- Deterministic merge rules applied consistently during encoding
+🔗 [github.com/Juanarena29/Transformer-From-Scratch](https://github.com/Juanarena29/Transformer-From-Scratch)
 
-🔗 [https://github.com/Juanarena29/BPE-Tokenizer](https://github.com/Juanarena29/BPETokenizer)
+---
 
-🔗 **[Open Demo on Streamlit Cloud](https://bpetokenizer-v1.streamlit.app/)**
+### Earlier work in this series
 
-## 🧠 Neural Network – NumPy Only
+**BPE Tokenizer** — custom Byte Pair Encoding implementation for Spanish, with a Streamlit demo.
+🔗 [Repo](https://github.com/Juanarena29/BPETokenizer) · [Demo](https://bpetokenizer-v1.streamlit.app/)
 
-Fully-connected neural network implemented from scratch using **NumPy only**, with all mathematical operations explicitly derived and coded.
-
-- Manual **forward pass** with ReLU activations and linear output
-- Full **backpropagation implementation** using the chain rule (dZ, dW, db)
-- **Mini-batch gradient descent** with proper data shuffling
-- Careful handling of **initialization and data normalization**
-
-🔗 https://github.com/Juanarena29/NeuralNetworkv1
-
-🔗 **[Open Demo on Streamlit Cloud](https://neuralnetworkv1.streamlit.app/)**
+**Neural Network (NumPy only)** — fully-connected network with manual forward pass, backprop, and mini-batch gradient descent.
+🔗 [Repo](https://github.com/Juanarena29/NeuralNetworkv1) · [Demo](https://neuralnetworkv1.streamlit.app/)
 
 ---
 
