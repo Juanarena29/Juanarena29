@@ -68,7 +68,7 @@ A learning project exploring the OpenAI Agents SDK: a requirements-gathering cha
 - Multi-agent pipeline orchestrated by code, not handoffs
 - Structured outputs (Pydantic) + iterative fixes for state tracking and date parsing
 
-🔗 [Repository](https://github.com/Juanarena29/BudgetTrip)
+🔗 [Repository](https://github.com/Juanarena29/BudgetTrip-Agents)
 
 ### 🤝 Digital Twin — Conversational Agent
 `Python · OpenAI · Gradio · SQLite`
