@@ -24,7 +24,7 @@ Outside of work, my personal projects have shifted from classic ML pipelines tow
 
 ## 🧰 Technical Skills
 
-**LLMs & Generative AI** — RAG (hybrid search, HyDE, reranking), agent orchestration (OpenAI Agents SDK), evaluation (RAGAS), observability (LangFuse), embeddings & semantic search, fine-tuning (QLoRA)
+**LLMs & Generative AI** — RAG (hybrid search, HyDE, reranking), agent orchestration (OpenAI Agents SDK), LangChain ecosystem, evaluation (RAGAS), observability (LangFuse), embeddings & semantic search
 
 **Machine Learning** — Python (NumPy, pandas, scikit-learn, XGBoost), end-to-end pipelines, feature engineering, model evaluation, neural networks from scratch
 
