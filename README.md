@@ -1,6 +1,6 @@
 <h1 align="center"><b>Hi, I'm Juan Arena </b> 👋</h1>
 <p align="center">
-  <b>Business Data Scientist @ Accenture | Python · SQL · Machine Learning</b>
+  <b>Business Data Scientist @ Accenture | Python · AI · Machine Learning</b>
   <br>
   <b>Computer Science Student</b>
   <br>
